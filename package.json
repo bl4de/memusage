@@ -1,0 +1,25 @@
+{
+  "name": "memusage",
+  "version": "1.0.0",
+  "description": "Process memory usage displayed in console",
+  "main": "memusage.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/bl4de/memusage.git"
+  },
+  "keywords": [
+    "utils",
+    "memory",
+    "console",
+    "process"
+  ],
+  "author": "Rafal Janicki",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/bl4de/memusage/issues"
+  },
+  "homepage": "https://github.com/bl4de/memusage#readme"
+}
